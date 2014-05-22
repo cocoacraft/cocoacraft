@@ -1,0 +1,4 @@
+*.log
+*.lck
+/crash-reports
+/main
