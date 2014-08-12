@@ -1,5 +1,6 @@
-*.log
+*.log*
 *.lck
 *.DS_Store
 /crash-reports
 /main
+/mods/DISABLED
